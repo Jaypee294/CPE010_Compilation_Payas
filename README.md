@@ -1,6 +1,21 @@
-# CPE010 – DATA STRUCTURES AND ALGORITHMS – PORTFOLIO
+ <div align="center">
 
-**Course:** CPE010 – Data Structures and Algorithms
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=200&section=header&text=CPE%20010&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=40" width="100%" />
+
+### Data Structures & Algorithms
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=480&lines=John+Paul+Payas;CPE21S3;Technological+Institute+of+the+Philippines;Linked+Lists+%C2%B7+Stacks+%C2%B7+Queues+%C2%B7+Trees+%C2%B7+Graphs" alt="Typing animation" />
+
+<br><br>
+
+![Student](https://img.shields.io/badge/John_Paul_Payas-0d1117?style=flat-square&labelColor=161b22&color=30363d)
+![Section](https://img.shields.io/badge/CPE21S3-0d1117?style=flat-square&labelColor=161b22&color=30363d)
+![Language](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=white&labelColor=161b22&color=30363d)
+![SDG](https://img.shields.io/badge/SDG_9-0d1117?style=flat-square&labelColor=161b22&color=30363d)
+
+</div>
+
+<br>
 
 ## 📖 About
 
@@ -10,28 +25,29 @@
 | **Section** | CPE21S3 |
 | **Course** | CPE010 — Data Structures and Algorithms |
 | **Language** | C++ |
+| **Institution** | Technological Institute of the Philippines – Quezon City |
 
 Welcome to my **Data Structures and Algorithms Portfolio**!
 
-This repository contains my completed hands-on activities, programming exercises, and laboratory works for **CPE010 – Data Structures and Algorithms**.
+This repository contains my completed hands-on activities, programming exercises, and laboratory works for CPE010 – Data Structures and Algorithms.
 
-It showcases my progress in learning fundamental data structures, understanding different algorithmic techniques, and developing problem-solving skills using **C++ programming**.
+It showcases my learning progress in understanding fundamental data structures, implementing different algorithms, and developing problem-solving skills using C++ programming.
+
+<br>
+
+## 📚 Course Description
+
+This course provides an understanding of analyzing algorithms and their complexity. It covers the development of data structures using C++ and applies mathematical techniques to analyze the efficiency of algorithms and their common operations.
+
+Students also implement algorithms and perform real-system performance measurements and analysis.
+
+The course contributes to the attainment of **SDG 9 — Industry, Innovation, and Infrastructure**.
+
+<br>
 
 ## 📂 Repository Contents
 
-Each activity is organized into its respective folder and includes:
-
-- **C++ Source Code (`.cpp`)** – Contains the program implementations for each activity.
-- **Header Files (`.h`)** – Contains supporting functions and data structure implementations.
-- **PDF Documentation (`.pdf`)** – Contains written documentation, explanations, and activity results.
-
-This portfolio serves as a record of my coursework, programming practice, and development throughout the semester.
-
-## 📂 FILES
-
-**Main Repository:** [CPE010_Compilation_Payas](https://github.com/Jaypee294/CPE010_Compilation_Payas)
-
-**DSA Portfolio:** [Open Folder](./DSA%20Portfolio/)
+This repository contains my laboratory activities and programming exercises organized according to the academic periods.
 
 ### PRELIM
 
@@ -57,43 +73,58 @@ This portfolio serves as a record of my coursework, programming practice, and de
 - [Hands-on Activity 13.1 – Parallel Algorithms and Multithreading](./DSA%20Portfolio/Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading/)
 - [Hands-on Activity 14.1 – Algorithm Complexity](./DSA%20Portfolio/Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/)
 
-## 📚 Topics Covered
+<br>
 
-| Prelim | Midterm | Finals |
-|:---|:---|:---|
-| Basic C++ Programming | Searching Techniques | Graphs |
-| Arrays and Pointers | Sorting Algorithms | Algorithm Analysis |
-| Dynamic Memory Allocation | Tree ADT | Algorithmic Strategies |
-| Linked Lists | Hashing | Parallel Algorithms |
-| Stacks and Queues | Binary Search | Algorithm Complexity |
+## 📖 Topics
+
+```text
+├── Abstract Data Types
+├── Arrays and Pointers
+├── Dynamic Memory Allocation
+├── Linked Lists
+├── Stacks
+├── Queues
+├── Searching Techniques
+├── Sorting Algorithms
+├── Trees
+├── Graphs
+├── Algorithm Analysis
+└── Algorithm Complexity
+```
+
+<br>
+
+## 🎯 Course Outcomes
+
+1. Apply fundamental data structures and techniques to solve engineering-related problems through algorithm design.
+2. Design efficient algorithms and analyze their complexity.
+3. Build efficient algorithms based on selected data structures using good programming styles in C++.
+
+<br>
 
 ## 🛠️ Technologies Used
 
-- **C++** – Used to develop and implement programs.
+- **C++** – Used to develop and implement programs and algorithms.
 - **Dev-C++ / C++ Compiler** – Used to write, compile, and execute programs.
-- **GitHub** – Used to store and organize source codes and project files.
-- **PDF** – Used for activity documentation.
+- **GitHub** – Used to store, manage, and organize source codes and project files.
+- **PDF** – Used for activity documentation and written outputs.
 
-## 🎯 Learning Objectives
-
-- Understand fundamental data structures and algorithms.
-- Apply different data structures to programming problems.
-- Develop algorithms using C++.
-- Improve logical thinking and problem-solving skills.
-- Understand algorithm efficiency and complexity.
+<br>
 
 ## 👨‍💻 Author
 
 **Payas, John Paul S.**
 
-**Section:** CPE21S3
+- **Section:** CPE21S3
+- **Course:** CPE010 – Data Structures and Algorithms
+- **School:** Technological Institute of the Philippines – Quezon City
 
-Technological Institute of the Philippines – Quezon City
+**GitHub Repository:** [CPE010_Compilation_Payas](https://github.com/Jaypee294/CPE010_Compilation_Payas)
 
-**GitHub:** [Jaypee294](https://github.com/Jaypee294)
+<br>
 
-**Repository:** [CPE010_Compilation_Payas](https://github.com/Jaypee294/CPE010_Compilation_Payas)
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer&animation=twinkling" width="100%" />
 
-*This portfolio represents my learning journey and progress in Data Structures and Algorithms.*
+</div>
