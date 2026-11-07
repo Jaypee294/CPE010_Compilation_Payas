@@ -1,70 +1,103 @@
-<div align="center">
+# CPE010 – Data Structures and Algorithms – PORTFOLIO
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=200&section=header&text=CPE%20010&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=40" width="100%"/>
+**Course:** CPE010 – Data Structures and Algorithms
 
-### Data Structures & Algorithms
-
-<a href="https://github.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=480&lines=John+Paul+Payas;CPE21S3;Technological+Institute+of+the+Philippines;Linked+Lists+%C2%B7+Stacks+%C2%B7+Queues+%C2%B7+Trees+%C2%B7+Graphs" alt="Typing animation" />
-</a>
-
-<br><br>
-
-![Student](https://img.shields.io/badge/John_Paul_Payas-0d1117?style=flat-square&labelColor=161b22&color=30363d)
-![Section](https://img.shields.io/badge/CPE21S3-0d1117?style=flat-square&labelColor=161b22&color=30363d)
-![Language](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=white&labelColor=161b22&color=30363d)
-![SDG](https://img.shields.io/badge/SDG_9-0d1117?style=flat-square&labelColor=161b22&color=30363d)
-
-</div>
-
-<br>
-
-## About
+## 📖 About
 
 | | |
 |---|---|
-| **Student** | Payas John Paul S. |
+| **Student** | Payas, John Paul S. |
 | **Section** | CPE21S3 |
-| **Course** | CPE 010 — Data Structures and Algorithms |
+| **Course** | CPE010 — Data Structures and Algorithms |
 | **Language** | C++ |
 
-<br>
+Welcome to my **Data Structures and Algorithms Portfolio**!
 
-## Course Description
+This repository contains my completed hands-on activities, programming exercises, and laboratory works for **CPE010 – Data Structures and Algorithms**.
 
-This course provides an understanding of analyzing algorithms and their complexity. It covers the development of data structures using C++, and applies mathematical techniques to analyze the efficiency of algorithms and the common operations on those structures. Students also implement algorithms and carry out real-system performance measurements and analyses. The course contributes to the attainment of **SDG 9 — Industry, Innovation, and Infrastructure**.
+It showcases my learning progress in understanding fundamental data structures, implementing different algorithms, and developing problem-solving skills using **C++ programming**.
 
-<br>
+## 📂 Repository Contents
 
-## Topics
+Each activity is organized into its respective folder and may include:
+
+- **C++ Source Code (`.cpp`)** – Contains the program implementations for each hands-on activity.
+- **Header Files (`.h`)** – Contains supporting functions and data structure implementations.
+- **PDF Documentation (`.pdf`)** – Contains written documentation, explanations, and activity results.
+
+This portfolio serves as a compilation of my coursework, programming exercises, and learning experiences throughout the semester.
+
+## 📂 FILES
 
 ```text
-├── Abstract Data Types
-├── Linked Lists
-├── Stacks
-├── Queues
-├── Trees
-└── Graphs
+CPE010_Compilation_Payas
+│
+├── README.md
+│
+└── DSA Portfolio
+    │
+    ├── Prelim
+    │   ├── Hands-on Activity 1.1 – Basic C++ Programming
+    │   ├── Hands-on Activity 2.1 – Arrays, Pointers and Dynamic Memory Allocation
+    │   ├── Hands-on Activity 3.1 – Linked Lists
+    │   ├── Hands-on Activity 4.1 – Stacks
+    │   └── Hands-on Activity 5.1 – Queues
+    │
+    ├── Midterm
+    │   ├── Hands-on Activity 6.1 – Searching Techniques
+    │   ├── Hands-on Activity 7.1 – Sorting Algorithms Pt. 1
+    │   ├── Hands-on Activity 7.1 – Sorting Algorithms Pt. 2
+    │   ├── Hands-on Activity 8.1 – Sorting Algorithms
+    │   └── Hands-on Activity 9.1 – Tree ADT
+    │
+    └── Finals
+        ├── Hands-on Activity 10.1 – Graphs
+        ├── Hands-on Activity 11.1 – Basic Algorithm Analysis
+        ├── Hands-on Activity 12.1 – Algorithmic Strategies
+        ├── Hands-on Activity 13.1 – Parallel Algorithms and Multithreading
+        └── Hands-on Activity 14.1 – Algorithm Complexity
 ```
 
-<br>
+## 📚 Topics Covered
 
-## Course Outcomes
+| Prelim | Midterm | Finals |
+|:---|:---|:---|
+| Basic C++ Programming | Searching Techniques | Graphs |
+| Arrays and Pointers | Sorting Algorithms | Algorithm Analysis |
+| Dynamic Memory Allocation | Tree ADT | Algorithmic Strategies |
+| Linked Lists | Hashing | Parallel Algorithms |
+| Stacks and Queues | Binary Search | Algorithm Complexity |
 
-1. Apply fundamental data structures and techniques to solve engineering-related problems through algorithm design.
-2. Design efficient algorithms and analyze their complexity.
-3. Build efficient algorithms based on selected data structures using good programming styles in C++.
+## 🛠️ Technologies Used
 
-<br>
+The following tools and technologies were used in developing and organizing this portfolio:
 
-## Repository
+- **C++** – Used to implement programs, data structures, and algorithms.
+- **Dev-C++ / C++ Compiler** – Used to write, compile, and execute C++ programs.
+- **GitHub** – Used to store, manage, and organize source codes and project files.
+- **PDF** – Used to compile and present the documentation for each activity.
 
-This repository contains my laboratory activities, exercises, and projects for the course.
+## 🎯 Learning Objectives
 
-<br>
+Through this course, I aim to:
 
-<div align="center">
+- Understand the fundamentals of data structures and algorithms.
+- Apply different data structures to solve programming problems.
+- Develop and implement algorithms using C++.
+- Improve problem-solving and logical thinking skills.
+- Understand the efficiency and complexity of different algorithms.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
+## 👨‍💻 Author
 
-</div>
+**Payas, John Paul S.**
+
+CPE21S3
+
+Technological Institute of the Philippines – Quezon City
+
+**GitHub Repository:**  
+https://github.com/Jaypee294/CPE010_Compilation_Payas
+
+---
+
+*This portfolio represents my learning journey and progress in Data Structures and Algorithms.*
