@@ -37,7 +37,7 @@ It showcases my learning progress in understanding fundamental data structures, 
 
 ## 📚 Course Description
 
-This course provides an understanding of analyzing algorithms and their complexity. It covers the development of data structures using C++ and applies mathematical techniques to analyze the efficiency of algorithms and their common operations.
+This course provides an understanding of algorithm analysis and complexity. It covers the development of data structures using C++ and applies mathematical techniques to analyze the efficiency of algorithms and common operations on those structures.
 
 Students also implement algorithms and perform real-system performance measurements and analysis.
 
@@ -45,52 +45,137 @@ The course contributes to the attainment of **SDG 9 — Industry, Innovation, an
 
 <br>
 
-## 📂 Repository Contents
+# 📂 PORTFOLIO OVERVIEW
 
-This repository contains my laboratory activities and programming exercises organized according to the academic periods.
+## 🟢 PRELIM
 
-### PRELIM
+**Overview**
 
-- [Hands-on Activity 1.1 – Basic C++ Programming](./DSA%20Portfolio/Prelim/Hands-on%20Activity%201.1%20Basic%20C++%20Programming/)
-- [Hands-on Activity 2.1 – Arrays, Pointers and Dynamic Memory Allocation](./DSA%20Portfolio/Prelim/Hands-on%20Activity%202.1%20Arrays,%20Pointers%20and%20Dynamic%20Memory%20Allocation/)
-- [Hands-on Activity 3.1 – Linked Lists](./DSA%20Portfolio/Prelim/Hands-on%20Activity%203.1%20Linked%20Lists/)
-- [Hands-on Activity 4.1 – Stacks](./DSA%20Portfolio/Prelim/Hands-on%20Activity%204.1%20Stacks/)
-- [Hands-on Activity 5.1 – Queues](./DSA%20Portfolio/Prelim/Hands-on%20Activity%205.1%20Queues/)
+The Prelim period focuses on the fundamentals of C++ programming and the introduction to basic data structures. It covers arrays, pointers, dynamic memory allocation, linked lists, stacks, and queues.
 
-### MIDTERM
+Through these activities, I developed my understanding of how data is stored, accessed, organized, and manipulated using different data structures.
 
-- [Hands-on Activity 6.1 – Searching Techniques](./DSA%20Portfolio/Midterm/Hands-on%20Activity%206.1%20Searching%20Techniques/)
-- [Hands-on Activity 7.1 – Sorting Algorithms Pt. 1](./DSA%20Portfolio/Midterm/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/)
-- [Hands-on Activity 7.1 – Sorting Algorithms Pt. 2](./DSA%20Portfolio/Midterm/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt2/)
-- [Hands-on Activity 8.1 – Sorting Algorithms](./DSA%20Portfolio/Midterm/Hands-on%20Activity%208.1%20Sorting%20Algorithms/)
-- [Hands-on Activity 9.1 – Tree ADT](./DSA%20Portfolio/Midterm/Hands-on%20Activity%209.1%20Tree%20ADT/)
+**Activities**
 
-### FINALS
+| Activity | Topic |
+|---|---|
+| [Activity 1.1](./DSA%20Portfolio/Prelim/Hands-on%20Activity%201.1%20Basic%20C++%20Programming/) | Basic C++ Programming |
+| [Activity 2.1](./DSA%20Portfolio/Prelim/Hands-on%20Activity%202.1%20Arrays,%20Pointers%20and%20Dynamic%20Memory%20Allocation/) | Arrays, Pointers and Dynamic Memory Allocation |
+| [Activity 3.1](./DSA%20Portfolio/Prelim/Hands-on%20Activity%203.1%20Linked%20Lists/) | Linked Lists |
+| [Activity 4.1](./DSA%20Portfolio/Prelim/Hands-on%20Activity%204.1%20Stacks/) | Stacks |
+| [Activity 5.1](./DSA%20Portfolio/Prelim/Hands-on%20Activity%205.1%20Queues/) | Queues |
 
-- [Hands-on Activity 10.1 – Graphs](./DSA%20Portfolio/Finals/Hands-on%20Activity%2010.1%20Graphs/)
-- [Hands-on Activity 11.1 – Basic Algorithm Analysis](./DSA%20Portfolio/Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/)
-- [Hands-on Activity 12.1 – Algorithmic Strategies](./DSA%20Portfolio/Finals/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies/)
-- [Hands-on Activity 13.1 – Parallel Algorithms and Multithreading](./DSA%20Portfolio/Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading/)
-- [Hands-on Activity 14.1 – Algorithm Complexity](./DSA%20Portfolio/Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/)
+**Topics Covered**
+
+- Basic C++ Programming
+- Arrays and Pointers
+- Dynamic Memory Allocation
+- Singly and Doubly Linked Lists
+- Stack Operations
+- Queue Operations
+
+**Learning Outcomes**
+
+- Understand the basics of C++ programming.
+- Apply arrays and pointers in programming.
+- Manage memory dynamically.
+- Implement linked lists, stacks, and queues.
+- Improve logical thinking and problem-solving skills.
 
 <br>
 
-## 📖 Topics
+---
 
-```text
-├── Abstract Data Types
-├── Arrays and Pointers
-├── Dynamic Memory Allocation
-├── Linked Lists
-├── Stacks
-├── Queues
-├── Searching Techniques
-├── Sorting Algorithms
-├── Trees
-├── Graphs
-├── Algorithm Analysis
-└── Algorithm Complexity
-```
+## 🔵 MIDTERM
+
+**Overview**
+
+The Midterm period focuses on searching techniques, sorting algorithms, and tree data structures. It introduces different methods for finding, organizing, and managing data efficiently.
+
+Through these activities, I learned how to implement searching and sorting algorithms, understand their processes, and explore how tree structures organize information.
+
+**Activities**
+
+| Activity | Topic |
+|---|---|
+| [Activity 6.1](./DSA%20Portfolio/Midterm/Hands-on%20Activity%206.1%20Searching%20Techniques/) | Searching Techniques |
+| [Activity 7.1 – Part 1](./DSA%20Portfolio/Midterm/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1/) | Sorting Algorithms |
+| [Activity 7.1 – Part 2](./DSA%20Portfolio/Midterm/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt2/) | Sorting Algorithms |
+| [Activity 8.1](./DSA%20Portfolio/Midterm/Hands-on%20Activity%208.1%20Sorting%20Algorithms/) | Sorting Algorithms |
+| [Activity 9.1](./DSA%20Portfolio/Midterm/Hands-on%20Activity%209.1%20Tree%20ADT/) | Tree ADT |
+
+**Topics Covered**
+
+- Linear Search
+- Binary Search
+- Sorting Algorithms
+- Quick Sort
+- Shell Sort
+- Merge Sort
+- Tree Abstract Data Type
+- Binary Search Trees
+
+**Learning Outcomes**
+
+- Understand different searching techniques.
+- Implement sorting algorithms using C++.
+- Compare different approaches to organizing data.
+- Understand tree structures and their operations.
+- Improve algorithmic thinking and programming skills.
+
+<br>
+
+---
+
+## 🟣 FINALS
+
+**Overview**
+
+The Finals period focuses on advanced data structures, algorithm analysis, and different algorithmic strategies. It covers graphs, basic algorithm analysis, parallel algorithms, multithreading, and algorithm complexity.
+
+Through these activities, I learned how to analyze algorithms, understand their efficiency, and explore different techniques for solving computational problems.
+
+**Activities**
+
+| Activity | Topic |
+|---|---|
+| [Activity 10.1](./DSA%20Portfolio/Finals/Hands-on%20Activity%2010.1%20Graphs/) | Graphs |
+| [Activity 11.1](./DSA%20Portfolio/Finals/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis/) | Basic Algorithm Analysis |
+| [Activity 12.1](./DSA%20Portfolio/Finals/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies/) | Algorithmic Strategies |
+| [Activity 13.1](./DSA%20Portfolio/Finals/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading/) | Parallel Algorithms and Multithreading |
+| [Activity 14.1](./DSA%20Portfolio/Finals/Hands-on%20Activity%2014.1%20Algorithm%20Complexity/) | Algorithm Complexity |
+
+**Topics Covered**
+
+- Graph Data Structures
+- Graph Representations
+- Breadth-First Search (BFS)
+- Depth-First Search (DFS)
+- Algorithm Analysis
+- Algorithmic Strategies
+- Parallel Algorithms
+- Multithreading
+- Time and Space Complexity
+
+**Learning Outcomes**
+
+- Understand graph structures and their applications.
+- Analyze algorithm performance and efficiency.
+- Apply different algorithmic strategies.
+- Understand parallel processing and multithreading.
+- Evaluate time and space complexity.
+- Develop efficient solutions to programming problems.
+
+<br>
+
+---
+
+## 🛠️ Technologies Used
+
+- **C++** – Used to develop and implement programs and algorithms.
+- **Dev-C++ / C++ Compiler** – Used to write, compile, and execute programs.
+- **GitHub** – Used to store, manage, and organize source codes and project files.
+- **PDF** – Used for activity documentation and written outputs.
 
 <br>
 
@@ -102,15 +187,6 @@ This repository contains my laboratory activities and programming exercises orga
 
 <br>
 
-## 🛠️ Technologies Used
-
-- **C++** – Used to develop and implement programs and algorithms.
-- **Dev-C++ / C++ Compiler** – Used to write, compile, and execute programs.
-- **GitHub** – Used to store, manage, and organize source codes and project files.
-- **PDF** – Used for activity documentation and written outputs.
-
-<br>
-
 ## 👨‍💻 Author
 
 **Payas, John Paul S.**
@@ -119,12 +195,16 @@ This repository contains my laboratory activities and programming exercises orga
 - **Course:** CPE010 – Data Structures and Algorithms
 - **School:** Technological Institute of the Philippines – Quezon City
 
-**GitHub Repository:** [CPE010_Compilation_Payas](https://github.com/Jaypee294/CPE010_Compilation_Payas)
+**GitHub:** [Jaypee294](https://github.com/Jaypee294)
+
+**Repository:** [CPE010_Compilation_Payas](https://github.com/Jaypee294/CPE010_Compilation_Payas)
 
 <br>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer&animation=twinkling" width="100%" />
+
+**Thank you for visiting my portfolio!**
 
 </div>
